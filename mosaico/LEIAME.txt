@@ -1,0 +1,9 @@
+﻿💻 Sobre o projeto - Mosaico de Imagens
+Aqui estão as instruções para executar o programa que virá a calcular o menor retângulo pelas coordenadas dadas. As instruções são um passo a passo que deve ser seguido à risca. Lembrando que a pontuação das letras, maiúsculas e minúsculas devem ser lembradas.
+
+🚀 Como executar o projeto
+1. Considerando que já tenha o python 3.x instalado na máquina, para que seja mais fácil de se utilizar o programa, é recomendável que a pasta do programa seja deszipada e colocada na área de trabalho.
+2. Assim, tecle “windows+R” e digite “cmd”. Após isso digite “cd desktop”. A partir daqui deve entrar na pasta do programa digitando “cd mosaico”. 
+3. Dentro desse caminho no cmd, digite “py gerador.py <base> <altura> <qntd>” para gerar os devidos retângulos de forma randômica - mesmo que isso ainda seja um paradigma na computação, risos.
+4. Com esses dados gerados, copie-os e cole-os no arquivo “arquivo.txt”, que está localizado dentro da pasta “mosaico” na área de trabalho. Certifique-se de não haver nenhum espaço a mais do que deveria. 
+5. Por fim, nesse mesmo caminho no cmd, execute o comando “py main.py”.
